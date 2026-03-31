@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notes by K28</string>
+    <string name="new_note">Add New Note</string>
+    <string name="edit_button">Edit Note</string>
+    <string name="delete_button">Delete Note</string>
+    <string name="clearAll_button">Clear All</string>
+    <string name="selection_detail">0 selected</string>
+</resources>
