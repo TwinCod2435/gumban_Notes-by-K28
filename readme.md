@@ -1,0 +1,1 @@
+A note-taking application, made in Java by Killer_28/v5hr1ke/TwinCod.
